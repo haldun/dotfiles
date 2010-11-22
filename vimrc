@@ -172,3 +172,4 @@ inoremap $q ''<esc>i
 inoremap $e ""<esc>i
 inoremap $t <><esc>i
 
+set wildignore+=*.o,*.obj,.git,*.pyc
